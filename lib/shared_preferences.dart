@@ -22,3 +22,4 @@ class SharedPreferenceStorage {
     return prefs.getString(keyToken) ?? '';
   }
 }
+
